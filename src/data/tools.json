@@ -1,0 +1,19 @@
+[
+    {
+      "title": "VS Code",
+      "imageSrc": "skills/vscode.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker.png"
+    }
+  ]
+  

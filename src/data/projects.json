@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Notebook Website",
+      "imageSrc": "projects/project.png",
+      "description": "A personal notebook website to document my projects and resources.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://pranjalana.github.io/NoteBook-Website/",
+      "source": "https://github.com/pranjalana/NoteBook-Website/tree/master"
+    },
+    {
+      "title": "Newspaper Website",
+      "imageSrc": "projects/project.png",
+      "description": "A modern newspaper website delivering the latest news and updates.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": " https://pranjalana.github.io/Newspaper-Website/",
+      "source": "https://github.com/pranjalana/Newspaper-Website/tree/master"
+    },
+    {
+      "title": "Spotify Clone",
+      "imageSrc": "projects/project.png",
+      "description": "Customized Spotify Music Player with personalized playlists.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

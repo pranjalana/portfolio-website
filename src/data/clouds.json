@@ -1,0 +1,19 @@
+[
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Oracle DB",
+      "imageSrc": "skills/oracle.png"
+    }
+  ]
+  
