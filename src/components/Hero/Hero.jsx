@@ -13,7 +13,7 @@ export const Hero = () => {
                 <p className={styles.element}> <TypedText /></p>
 
                 <div className={styles.buttons}>
-                    <button class="btn" className={styles.resumeBtn}><a href="https://drive.google.com/file/d/1CK07aO6FJeNCjGz_zEBDfgjlGvuRaNJ9/view?usp=drive_link" download="Pranjal_Patel_Resume.pdf">Download Resume</a></button>
+                    <button class="btn" className={styles.resumeBtn}><a href="https://drive.google.com/file/d/1fuJlm3CWn9_mgYhvKMcYYjZ0jMoQg-EZ/view?usp=drive_link" download="Pranjal_Patel_Resume.pdf">Download Resume</a></button>
                     <button class="btn" className={styles.contactBtn}><a href="mailto:pranjalpatel0903@gmail.com">Contact me</a></button>
                 </div>
             </div>
