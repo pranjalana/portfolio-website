@@ -18,11 +18,15 @@
     color: var(--color-text);
     z-index: 1;
   }
+
+  .description{
+    text-align: justify;
+  }
   
   .title {
-    font-size: 72px;
+    font-size: 55px;
     font-weight: 900;
-    margin-bottom: 33px;
+    margin-bottom: 20px;
     font-family: var(--font-roboto);
     background: linear-gradient(
       90deg,
@@ -34,7 +38,7 @@
   }
   
   .description {
-    font-size: 30px;
+    font-size: 25px;
     font-family: var(--font-roboto);
     margin-bottom: 20px;
   }
@@ -98,6 +102,7 @@
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     border-radius: 50px;
+    margin-left: 5%;
 }
 
 @keyframes floating {

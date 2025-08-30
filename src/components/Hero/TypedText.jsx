@@ -6,7 +6,7 @@ const TypedText = () => {
 
     useEffect(() => {
         const options = {
-            strings: ['I am passionate about Cloud Computing.', 'I am passionate about DevOps.', 'I am passionate about Cyber Security.', 'I am passionate about AI/ML.'],
+            strings: ['I am passionate about Cyber Security.', 'I am passionate about Cloud Computing/Cloud Security.', 'I am passionate about DevSecOps.', 'I am passionate about AI/ML.'],
             typeSpeed: 100,
             backSpeed: 50,
             loop: true,

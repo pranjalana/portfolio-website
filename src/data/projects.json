@@ -20,7 +20,23 @@
       "imageSrc": "projects/project.png",
       "description": "Customized Spotify Music Player with personalized playlists.",
       "skills": ["HTML", "CSS", "Javascript"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://pranjalana.github.io/spotify-clone/",
+      "source": "https://github.com/pranjalana/spotify-clone"
+    },
+    {
+      "title": "Book Store Website",
+      "imageSrc": "projects/project.png",
+      "description": "Discover a vast collection of books across all genres.",
+      "skills": ["HTML", "CSS", "Javascript", "PHP", "MySQL"],
+      "demo": "https://github.com/pranjalana/Book-Store-Website/tree/master",
+      "source": "https://github.com/pranjalana/Book-Store-Website/tree/master"
+    },
+    {
+      "title": "Chat Application",
+      "imageSrc": "projects/project.png",
+      "description": "A complete chat app built with the MERN stack and Socket.io.",
+      "skills": ["MERN", "Socket"],
+      "demo": "https://github.com/pranjalana/whatsapp-clone",
+      "source": "https://github.com/pranjalana/whatsapp-clone"
     }
   ]
